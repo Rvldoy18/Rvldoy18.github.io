@@ -5,7 +5,7 @@
 ### Kampus Project
 
 [Sosialisasi KKN]
-<img src="images/dummy-thumbnail1.jpg?raw=true"/>
+<img src="images/dummy-thumbnail1.jpeg?raw=true"/>
 
 ---
 [KKN Kelompok Lain]
