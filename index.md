@@ -31,4 +31,4 @@
 
 
 ---
-<p style="font-size:11px">Thanks for coming</a></p>
+<p style="font-size:11px">Thanks for coming</p>
