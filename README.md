@@ -1,2 +1,2 @@
-#Assignment Topik 2
+Assignment Topik 2
 Rivaldo Giri Saksono
