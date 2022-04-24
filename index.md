@@ -2,7 +2,7 @@
 
 ---
 
-### Kampus Project
+### Kegiatan Pengabdian 
 
 [Sosialisasi KKN]
 <img src="images/dummy-thumbnail1.jpeg?raw=true"/>
@@ -12,7 +12,7 @@
 <img src="images/dummy-thumbnail3.jpg?raw=true"/>
 
 ---
-[Computer Maintenance]
+[Perawatan Komputer Kantor]
 <img src="images/dummy-thumbnail2.jpg?raw=true"/>
 
 ---
