@@ -2,34 +2,33 @@
 
 ---
 
-### Category Name 1 
+### Kampus Project
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sosialisasi KKN]
+<img src="images/dummy-thumbnail1.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[KKN Kelompok Lain]
+<img src="images/dummy-thumbnail3.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Computer Maintenance]
+<img src="images/dummy-thumbnail2.jpg?raw=true"/>
 
 ---
 
+### Kegiatan Kampus
+
+- [Project 1 Panitia M-Cup](https://www.instagram.com/p/B76gqwIlnBF/?igshid=YmMyMTA2M2Y=)
+- [Project 2 Panitia Engineering League](https://instagram.com/unefco2021?igshid=YmMyMTA2M2Y=)
+- [Project 3 Panitia PEMIRA Fakultas Teknik](https://instagram.com/kpumftunsika?igshid=YmMyMTA2M2Y=)
+- [Project 4 Admin Kucing UNSIKA](https://instagram.com/kucing.unsika?igshid=YmMyMTA2M2Y=)
+- [Project 5 Admin Instagram Kelas](https://instagram.com/teembe18?igshid=YmMyMTA2M2Y=)
+
+---
+
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<p style="font-size:11px">Thanks for coming</a></p>
